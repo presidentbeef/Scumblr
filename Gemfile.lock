@@ -83,7 +83,7 @@ GEM
       erubis (>= 2.6.6)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
-    brakeman (4.0.0)
+    brakeman (4.0.1.pre1)
     buftok (0.2.0)
     builder (3.2.2)
     bullet (5.1.0)
