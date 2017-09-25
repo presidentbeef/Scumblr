@@ -1,4 +1,4 @@
-script: "bundle exec rake test"
+script: "brakeman && bundle exec rake test"
 language: ruby
 rvm:
  - 2.3.1
